@@ -7,6 +7,7 @@
     <title>Mi Primer Proyecto</title>
 </head>
 <body>
+
     <h1>Hola Mundo desde HTML + PHP </h1>
     <h2>Mercedes Portillo</h2>
     
